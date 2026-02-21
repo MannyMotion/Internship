@@ -1,0 +1,5 @@
+name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+PROVIDER_CLINIC_ID,VARCHAR(20),COLUMN,N,,Y,N,,,,,
+CLINIC_NAME,VARCHAR(100),COLUMN,Y,,N,N,,,,,
+CITY,VARCHAR(20),COLUMN,Y,,N,N,,,,,
+HOURS,VARCHAR(20),COLUMN,Y,,N,N,,,,,
