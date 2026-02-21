@@ -1,0 +1,4 @@
+name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+PATIENT_ID,VARCHAR(20),COLUMN,N,,Y,N,,,,,
+AGE,"NUMBER(3,0)",COLUMN,Y,,N,N,,,,,
+INSURANCE_TYPE,VARCHAR(20),COLUMN,Y,,N,N,,,,,
