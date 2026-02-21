@@ -1,0 +1,4 @@
+name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+PROVIDER_ID,VARCHAR(20),COLUMN,N,,Y,N,,,,,
+SPECIALTY,VARCHAR(100),COLUMN,Y,,N,N,,,,,
+CLINIC_ASSIGNMENT,VARCHAR(20),COLUMN,Y,,N,N,,,,,
