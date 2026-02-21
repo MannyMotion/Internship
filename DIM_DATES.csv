@@ -1,0 +1,7 @@
+name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+DATE_ID,"NUMBER(38,0)",COLUMN,N,,Y,N,,,,,
+APPOINTMENT_DATE,DATE,COLUMN,Y,,N,N,,,,,
+YEAR,"NUMBER(38,0)",COLUMN,Y,,N,N,,,,,
+MONTH,"NUMBER(38,0)",COLUMN,Y,,N,N,,,,,
+DAY,"NUMBER(38,0)",COLUMN,Y,,N,N,,,,,
+DAY_OF_WEEK,"NUMBER(38,0)",COLUMN,Y,,N,N,,,,,
